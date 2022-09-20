@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-![alt text](https://github.com/y13uc130/manufac/blob/main/Screenshot 2022-09-19 at 11.58.03 PM.png.jpg?raw=true)
+![alt text](https://github.com/y13uc130/manufac/blob/main/echarts.png.jpg?raw=true)
